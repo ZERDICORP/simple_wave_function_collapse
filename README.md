@@ -5,8 +5,8 @@
 ## Launch guide
 
 ```console
-$ git clone https://github.com/ZERDICORP/ants_simulation.git
-$ cd ants_simulation
+$ git clone https://github.com/ZERDICORP/simple_wave_function_collapse".git
+$ cd simple_wave_function_collapse
 $ ./run
 ```
 
